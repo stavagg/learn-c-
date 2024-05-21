@@ -1,0 +1,15 @@
+C:\Users\evil\source\repos\learn-c#\learn-c#\learn-c#\bin\Debug\net8.0\learn-c#.exe
+C:\Users\evil\source\repos\learn-c#\learn-c#\learn-c#\bin\Debug\net8.0\learn-c#.deps.json
+C:\Users\evil\source\repos\learn-c#\learn-c#\learn-c#\bin\Debug\net8.0\learn-c#.runtimeconfig.json
+C:\Users\evil\source\repos\learn-c#\learn-c#\learn-c#\bin\Debug\net8.0\learn-c#.dll
+C:\Users\evil\source\repos\learn-c#\learn-c#\learn-c#\bin\Debug\net8.0\learn-c#.pdb
+C:\Users\evil\source\repos\learn-c#\learn-c#\learn-c#\obj\Debug\net8.0\learn-c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evil\source\repos\learn-c#\learn-c#\learn-c#\obj\Debug\net8.0\learn-c#.AssemblyInfoInputs.cache
+C:\Users\evil\source\repos\learn-c#\learn-c#\learn-c#\obj\Debug\net8.0\learn-c#.AssemblyInfo.cs
+C:\Users\evil\source\repos\learn-c#\learn-c#\learn-c#\obj\Debug\net8.0\learn-c#.csproj.CoreCompileInputs.cache
+C:\Users\evil\source\repos\learn-c#\learn-c#\learn-c#\obj\Debug\net8.0\learn-c#.sourcelink.json
+C:\Users\evil\source\repos\learn-c#\learn-c#\learn-c#\obj\Debug\net8.0\learn-c#.dll
+C:\Users\evil\source\repos\learn-c#\learn-c#\learn-c#\obj\Debug\net8.0\refint\learn-c#.dll
+C:\Users\evil\source\repos\learn-c#\learn-c#\learn-c#\obj\Debug\net8.0\learn-c#.pdb
+C:\Users\evil\source\repos\learn-c#\learn-c#\learn-c#\obj\Debug\net8.0\learn-c#.genruntimeconfig.cache
+C:\Users\evil\source\repos\learn-c#\learn-c#\learn-c#\obj\Debug\net8.0\ref\learn-c#.dll
