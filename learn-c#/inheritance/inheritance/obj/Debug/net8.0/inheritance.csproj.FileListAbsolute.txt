@@ -1,0 +1,15 @@
+C:\Users\evil\source\repos\learn-c#\learn-c#\inheritance\inheritance\bin\Debug\net8.0\inheritance.exe
+C:\Users\evil\source\repos\learn-c#\learn-c#\inheritance\inheritance\bin\Debug\net8.0\inheritance.deps.json
+C:\Users\evil\source\repos\learn-c#\learn-c#\inheritance\inheritance\bin\Debug\net8.0\inheritance.runtimeconfig.json
+C:\Users\evil\source\repos\learn-c#\learn-c#\inheritance\inheritance\bin\Debug\net8.0\inheritance.dll
+C:\Users\evil\source\repos\learn-c#\learn-c#\inheritance\inheritance\bin\Debug\net8.0\inheritance.pdb
+C:\Users\evil\source\repos\learn-c#\learn-c#\inheritance\inheritance\obj\Debug\net8.0\inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evil\source\repos\learn-c#\learn-c#\inheritance\inheritance\obj\Debug\net8.0\inheritance.AssemblyInfoInputs.cache
+C:\Users\evil\source\repos\learn-c#\learn-c#\inheritance\inheritance\obj\Debug\net8.0\inheritance.AssemblyInfo.cs
+C:\Users\evil\source\repos\learn-c#\learn-c#\inheritance\inheritance\obj\Debug\net8.0\inheritance.csproj.CoreCompileInputs.cache
+C:\Users\evil\source\repos\learn-c#\learn-c#\inheritance\inheritance\obj\Debug\net8.0\inheritance.sourcelink.json
+C:\Users\evil\source\repos\learn-c#\learn-c#\inheritance\inheritance\obj\Debug\net8.0\inheritance.dll
+C:\Users\evil\source\repos\learn-c#\learn-c#\inheritance\inheritance\obj\Debug\net8.0\refint\inheritance.dll
+C:\Users\evil\source\repos\learn-c#\learn-c#\inheritance\inheritance\obj\Debug\net8.0\inheritance.pdb
+C:\Users\evil\source\repos\learn-c#\learn-c#\inheritance\inheritance\obj\Debug\net8.0\inheritance.genruntimeconfig.cache
+C:\Users\evil\source\repos\learn-c#\learn-c#\inheritance\inheritance\obj\Debug\net8.0\ref\inheritance.dll
