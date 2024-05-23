@@ -1,0 +1,14 @@
+C:\Users\evil\source\repos\pubic\pubic\bin\Debug\net8.0\pubic.exe
+C:\Users\evil\source\repos\pubic\pubic\bin\Debug\net8.0\pubic.deps.json
+C:\Users\evil\source\repos\pubic\pubic\bin\Debug\net8.0\pubic.runtimeconfig.json
+C:\Users\evil\source\repos\pubic\pubic\bin\Debug\net8.0\pubic.dll
+C:\Users\evil\source\repos\pubic\pubic\bin\Debug\net8.0\pubic.pdb
+C:\Users\evil\source\repos\pubic\pubic\obj\Debug\net8.0\pubic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evil\source\repos\pubic\pubic\obj\Debug\net8.0\pubic.AssemblyInfoInputs.cache
+C:\Users\evil\source\repos\pubic\pubic\obj\Debug\net8.0\pubic.AssemblyInfo.cs
+C:\Users\evil\source\repos\pubic\pubic\obj\Debug\net8.0\pubic.csproj.CoreCompileInputs.cache
+C:\Users\evil\source\repos\pubic\pubic\obj\Debug\net8.0\pubic.dll
+C:\Users\evil\source\repos\pubic\pubic\obj\Debug\net8.0\refint\pubic.dll
+C:\Users\evil\source\repos\pubic\pubic\obj\Debug\net8.0\pubic.pdb
+C:\Users\evil\source\repos\pubic\pubic\obj\Debug\net8.0\pubic.genruntimeconfig.cache
+C:\Users\evil\source\repos\pubic\pubic\obj\Debug\net8.0\ref\pubic.dll
