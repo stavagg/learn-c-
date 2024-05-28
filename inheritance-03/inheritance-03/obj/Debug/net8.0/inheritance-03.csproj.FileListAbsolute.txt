@@ -1,0 +1,14 @@
+C:\Users\evil\source\repos\inheritance-03\inheritance-03\bin\Debug\net8.0\inheritance-03.exe
+C:\Users\evil\source\repos\inheritance-03\inheritance-03\bin\Debug\net8.0\inheritance-03.deps.json
+C:\Users\evil\source\repos\inheritance-03\inheritance-03\bin\Debug\net8.0\inheritance-03.runtimeconfig.json
+C:\Users\evil\source\repos\inheritance-03\inheritance-03\bin\Debug\net8.0\inheritance-03.dll
+C:\Users\evil\source\repos\inheritance-03\inheritance-03\bin\Debug\net8.0\inheritance-03.pdb
+C:\Users\evil\source\repos\inheritance-03\inheritance-03\obj\Debug\net8.0\inheritance-03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evil\source\repos\inheritance-03\inheritance-03\obj\Debug\net8.0\inheritance-03.AssemblyInfoInputs.cache
+C:\Users\evil\source\repos\inheritance-03\inheritance-03\obj\Debug\net8.0\inheritance-03.AssemblyInfo.cs
+C:\Users\evil\source\repos\inheritance-03\inheritance-03\obj\Debug\net8.0\inheritance-03.csproj.CoreCompileInputs.cache
+C:\Users\evil\source\repos\inheritance-03\inheritance-03\obj\Debug\net8.0\inheritance-03.dll
+C:\Users\evil\source\repos\inheritance-03\inheritance-03\obj\Debug\net8.0\refint\inheritance-03.dll
+C:\Users\evil\source\repos\inheritance-03\inheritance-03\obj\Debug\net8.0\inheritance-03.pdb
+C:\Users\evil\source\repos\inheritance-03\inheritance-03\obj\Debug\net8.0\inheritance-03.genruntimeconfig.cache
+C:\Users\evil\source\repos\inheritance-03\inheritance-03\obj\Debug\net8.0\ref\inheritance-03.dll
